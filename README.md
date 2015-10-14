@@ -3,7 +3,7 @@
 
 ### Memo ###
 Swift2.0
-iOS7 correspondence.  
+iOS8 correspondence.  
 I support that until iPhone5 〜iPhone6Plus.  
 https://github.com/Alamofire/Alamofire
 
